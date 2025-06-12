@@ -1,0 +1,6 @@
+{
+  "homePageTitle": "Minesweeper",
+  "gameRunning": "Thinking...",
+  "gameWin": "Congratulations! You Win!",
+  "gameLose": "Game Over"
+}
